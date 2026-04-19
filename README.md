@@ -1,11 +1,14 @@
+```
 ██████  ███████ ██████  ██   ██ ██████  
 ██   ██ ██      ██   ██ ██   ██ ██   ██ 
 ██   ██ █████   ██   ██ ███████ ██   ██ 
 ██   ██ ██      ██   ██ ██   ██ ██   ██ 
 ██████  ███████ ██████  ██   ██ ██████  
+```
 
 
-# 🧠 dedHD – Behavior-Based Attention Assistant
+
+# dedHD – Behavior-Based Attention Assistant 
 
 A Chrome extension that gently helps users regain focus by detecting ADHD behavioral patterns like rapid scrolling, jittery mouse movement, fast typing, and more.
 
@@ -15,7 +18,7 @@ Instead of blocking or restricting, dedHD provides **subtle interventions** like
 
 ## ✨ Features
 
-### 🧠 Behavior Detection
+### Behavior Detection
 
 * Rapid mouse movement (restlessness)
 * Fast scrolling / doomscrolling
