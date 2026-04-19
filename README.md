@@ -75,3 +75,9 @@ It detects **behavioral patterns that may correlate with distraction or overload
 * Instagram / Reels detection
 * Task memory (“What were you doing?” persistence)
 
+## Imgs
+
+![App Screenshot](imgs/1.png)
+![App Screenshot](imgs/2.png)
+![App Screenshot](imgs/3.png)
+![App Screenshot](imgs/4.png)
