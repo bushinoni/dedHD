@@ -8,7 +8,7 @@
 
 
 
-# dedHD – Behavior-Based Attention Assistant 
+# dedHD – Cognitive Fatigue-Aware Interface Adapter
 
 A Chrome extension that gently helps users regain focus by detecting ADHD behavioral patterns like rapid scrolling, jittery mouse movement, fast typing, and more.
 
